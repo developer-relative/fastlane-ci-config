@@ -1,0 +1,18 @@
+[
+  {
+    "id": "e5cdb883-e972-46a9-8b62-a0cba98658fa",
+    "email": "developer@relative.cl",
+    "password_hash": "$2a$10$BrNxqI6xbQs9P2HeisJnnO41N5yGebVTXTTzP1lSt.9g3qvw6PoFu",
+    "provider_credentials": [
+      {
+        "id": "1dc928f7-6b9c-4906-8158-9863ff937211",
+        "email": "developer@relative.cl",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "DlDYb4n5CHMjcFKUVcWYdbFClX+ozCBr6FMXrQdIc/SwkRHumyZkyshQiA8D\njfvL+s4kFtoVwEPV5/tBeI54vw==\n"
+      }
+    ]
+  }
+]
